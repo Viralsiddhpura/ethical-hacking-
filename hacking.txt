@@ -1,0 +1,135 @@
+6.Explain the Types of Hacker
+
+There are several types of hackers, each with their own characteristic behaviors and motivations:
+
+* - White Hat Hacker:
+
+Also known as ethical hackers or penetration testers.
+Performs authorized security assessments or penetration tests.
+Finds vulnerabilities, reports them to the organization, and provides recommendations for remediation.
+
+May be compensated for their work or receive recognition for their contributions.
+
+* - Black Hat Hacker:
+
+Also known as malicious hackers or criminals.
+
+Performs unauthorized or malicious activities to gain access to systems or data.
+
+May target organizations for financial gain, personal gain, or to cause disruption or damage.
+
+May be motivated by political or ideological agendas.
+
+* - Grey Hat Hacker:
+
+A mix of white hat and black hat behaviors.
+
+Performs authorized security assessments but also exploits vulnerabilities without authorization.
+
+May engage in black hat activities if the exploits are profitable or for personal gain.
+May be perceived as a gray area between white and black hat hackers.
+
+* - Script Kiddie:
+
+A novice hacker who uses pre-written scripts or tools for unauthorized purposes.
+
+May be motivated by curiosity or to show off their skills.
+
+May be unaware of the ethical implications of their actions.
+
+* - Hacktivist:
+
+An individual who uses their technical skills to promote social or political change.
+
+May engage in actions such as protests, political activism, or cyberattacks.
+May be motivated by their beliefs or political affiliations.
+
+* - State-Sponsored Hackers:
+
+Hackers employed by governments or organized crime groups.
+
+Perform targeted attacks or disruptions on specific targets.
+
+May be motivated by national security or economic interests.
+
+7.What is the full form of SOC in cyber security ?
+
+The full form of SOC in cyber security is Service-Oriented Cybersecurity. It is a framework that outlines the responsibilities and processes for a cybersecurity team to protect an organization's assets and information from threats.
+
+The Service-Oriented Cybersecurity (SOC) framework is an approach to managing cybersecurity that focuses on the services and functions provided by the cybersecurity team, rather than the technical details of the implementation. The SOC framework was developed by the National Initiative for Cybersecurity Education (NICE) and has since become a widely accepted standard for cybersecurity teams across the globe.
+
+8.What are the Challenges of Cyber Security ?
+
+Top 10 Cybersecurity Challenges in 2024
+
+5G Network
+Increasing Rate of Mobile Malware
+Artificial Intelligence
+IoT Devices
+Ransomware Attacks
+Over Phishing & Spear-Phishing Attacks
+Hacktivism
+Dronejacking
+Social Engineering
+Office People Having Access to Data of their Organizations
+
+Module 2 CS- Fundamental of Operating
+Systems & Networks
+
+1. Difference between hardware and software
+
+Hardware is the physical parts that make up a computer such as a keyboard, and monitor. Software is the programs that run on a computer in order for you to use it. These are programs like Ms Word, and Photoshop. Read on to find out what is the difference between hardware and software in more detail.
+
+Hardware is any element of a computer that's physical. This includes things like monitors, keyboards, and also the insides of devices, like microchips and hard drives. Software is anything that tells hardware what to do and how to do it, including computer programs and apps on your phone.
+
+2. Define IP address range and private address range.
+
+IP addresses and private address ranges are used to identify and communicate with devices on a network. Here's a brief explanation:
+
+IP Address:
+- An IP address is a unique numerical label assigned to each device participating in a computer network.
+- It serves as an identifier for devices and enables data transmission between them.
+- IP addresses are typically expressed as a series of four numbers, each ranging from 0 to 255, separated by periods (e.g., 192.168.1.10).
+
+Private Address Range:
+- A private address range is a range of IP addresses that are not routable on the public internet.
+- These addresses are used for internal network communication within an organization or home network.
+- Private address ranges are reserved for specific purposes and are not globally unique.
+- Examples of private address ranges include:
+  - 10.0.0.0 - 10.255.255.255 (Class A private address range)
+  - 172.16.0.0 - 172.31.255.255 (Class B private address range)
+  - 192.168.0.0 - 192.168.255.255 (Class C private address range)
+
+Private address ranges are used to ensure that devices on a private network are not directly accessible from the public internet. They are used for local communication within a closed network, such as within an office or home network.
+
+3. Explain Network protocol and Port number
+
+Network protocols and port numbers are crucial components in the communication process between devices on a network. Here's a brief explanation:
+
+Network Protocol:
+- A network protocol is a set of rules and standards for communication between devices on a network.
+- It defines how data is formatted, transmitted, and interpreted by the devices.
+- Network protocols ensure that devices from different manufacturers can communicate with each other.
+- Examples of network protocols include:
+  - TCP (Transmission Control Protocol)
+  - UDP (User Datagram Protocol)
+  - HTTP (Hypertext Transfer Protocol)
+  - FTP (File Transfer Protocol)
+  - SMTP (Simple Mail Transfer Protocol)
+
+Port Number:
+- A port number is a numerical value assigned to a specific process or service on a device.
+- It acts as an endpoint for network communication.
+- When a device wants to send data, it specifies the port number to which it wants to send the data.
+- Port numbers are used to differentiate between different types of network services or applications.
+- Examples of port numbers include:
+  - Port 80 for HTTP (Hypertext Transfer Protocol)
+  - Port 443 for HTTPS (Secure Hypertext Transfer Protocol)
+  - Port 22 for SSH (Secure Shell)
+  - Port 25 for SMTP (Simple Mail Transfer Protocol)
+
+Port numbers are essential for devices on a network to communicate with each other. They specify the specific process or service that the data is intended for. Without port numbers, devices would not be able to correctly route the data to the intended recipient.
+
+Network protocols and port numbers work together to establish communication between devices on a network. The protocol defines the format of the data, while the port number identifies the specific service or process that the data is intended for.
+
+Network protocols and port numbers are closely related and often used together to ensure effective communication between devices.
